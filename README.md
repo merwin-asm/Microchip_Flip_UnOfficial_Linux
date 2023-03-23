@@ -6,6 +6,11 @@ Made because I couldnt use it .. Haaa..
 
 ### NOTE : PRIMARILY MADE FOR - flip.3.2.1
 
+## Features : 
+
+ -  Fixs stuff
+ -  Gives you an Option to add to path [in install.sh]
+
 ## Fixing Fixing..
 
 - Download Official Microchip Flip from : https://www.microchip.com/en-us/development-tool/flip
@@ -17,3 +22,4 @@ Made because I couldnt use it .. Haaa..
 - Do 'chmod +x install.sh'
 
 - Run the install.sh ~~.~ Done
+
