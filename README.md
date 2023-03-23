@@ -14,4 +14,6 @@ Made because I couldnt use it .. Haaa..
 
 - Make install.sh in the '/flip.....version....../bin' and copy the code from here
 
+- Do 'chmod +x install.sh'
+
 - Run the install.sh ~~.~ Done
