@@ -1,4 +1,4 @@
-
+#!/bin/bash -f
 export FLIP_HOME="/home/flip.3.2.1/bin"
 sudo apt install libcanberra-gtk-module libcanberra-gtk3-module
 sudo apt-get install default-jre:i386
