@@ -9,8 +9,6 @@ fi
 export LD_LIBRARY_PATH="$FLIP_HOME:$LD_LIBRARY_PATH"
 export PATH="$FLIP_HOME:$PATH"
 echo =====================================================
-echo JAVA_HOME = $JAVA_HOME
-echo =====================================================
 echo LD_LIBRARY_PATH = $LD_LIBRARY_PATH
 echo =====================================================
 echo PATH = $PATH
