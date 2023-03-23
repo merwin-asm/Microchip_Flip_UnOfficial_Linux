@@ -11,7 +11,7 @@ echo "\nWould you like adding flip to path (Y/n) ?"
 read answer_add_path
 if [ "$answer_add_path" != "${answer_add_path#[Yy]}" ];then
     touch flip
-    
+    echo bash flip.sh >> flip
     chmod +x flip
     export PATH="$pwd_:$PATH"
     echo "Added To Path (Can be ran using -flip)"
